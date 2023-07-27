@@ -1,0 +1,117 @@
+{
+    "inr": {
+        "ff": "Indian Rupee",
+        "val": 1,
+        "sym": "₹"
+    },
+    "usd": {
+        "ff": "US Dollar",
+        "val": 81.99,
+        "sym": "$"
+    },
+    "eur": {
+        "ff": "Euro",
+        "val": 90.96,
+        "sym": "€"
+    },
+    "brp": {
+        "ff": "British Pound",
+        "val": 106.23,
+        "sym": "£"
+    },
+    "aud": {
+        "ff": "Australian Dollar",
+        "val": 55.66,
+        "sym": "$"
+    },
+    "ued": {
+        "ff": "UAE Dirham",
+        "val": 22.32,
+        "sym": "د.إ"
+    },
+    "nzd": {
+        "ff": "New Zealand",
+        "val": 51.17,
+        "sym": "$"
+    },
+    "cnd": {
+        "ff": "Canadian Dollar",
+        "val": 62.2,
+        "sym": "$"
+    },
+    "swf": {
+        "ff": "Swiss Franc",
+        "val": 95.3,
+        "sym": "Fr"
+    },
+    "jpy": {
+        "ff": "Japanese Yen",
+        "val": 0.5852,
+        "sym": "¥"
+    },
+    "sdr": {
+        "ff": "Saudi Riyal",
+        "val": 21.86,
+        "sym": "Sr"
+    },
+    "qtr": {
+        "ff": "Qatari Rial",
+        "val": 22.52,
+        "sym": "Qr"
+    },
+    "omr": {
+        "ff": "Omani Rial",
+        "val": 212.95,
+        "sym": "Or"
+    },
+    "bhr": {
+        "ff": "Bahraini Dinar",
+        "val": 217.52,
+        "sym": "Bd"
+    },
+    "kwd": {
+        "ff": "Kuwaiti Dinar",
+        "val": 267.55,
+        "sym": "Kd"
+    },
+    "sgd": {
+        "ff": "Singapore Dollar",
+        "val": 61.94,
+        "sym": "$"
+    },
+    "mlr": {
+        "ff": "Malaysian Ringgit",
+        "val": 18.11,
+        "sym": "Mr"
+    },
+    "swk": {
+        "ff": "Swedish Krona",
+        "val": 7.89,
+        "sym": "Sk"
+    },
+    "dnk": {
+        "ff": "Danish Krona",
+        "val": 12.21,
+        "sym": "Dk"
+    },
+    "thb": {
+        "ff": "Thai Baht",
+        "val": 2.404,
+        "sym": "Tb"
+    },
+    "hkd": {
+        "ff": "Hong Kong Dollar",
+        "val": 10.51,
+        "sym": "$"
+    },
+    "sar": {
+        "ff": "South African Rand",
+        "val": 4.65,
+        "sym": "Sr"
+    },
+    "chy": {
+        "ff": "Chinese Yuan",
+        "val": 11.48,
+        "sym": "¥"
+    }
+}
