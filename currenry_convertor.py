@@ -58,7 +58,10 @@ to_val_label.grid(row=2, column=3, columnspan=2, pady=10)
 
 
 def exe_convert():
-    to_val.set(str(round(convert(from_curr.get(), to_curr.get(), int(from_val.get())), 2)))
+    try:
+        to_val.set(values[to_curr.get()]['sym'] + ' ' + str(round(convert(from_curr.get(), to_curr.get(), float(from_val.get())), 2)))
+    except:
+        to_val.set('ERROR')
 
 
 conv_button = customtkinter.CTkButton(root, text='Convert', command=lambda: exe_convert())
